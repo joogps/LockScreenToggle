@@ -11,6 +11,7 @@
 		27F3C2EE25BF6F9E0044A065 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F3C2ED25BF6F9E0044A065 /* ContentView.swift */; };
 		27F3C2F025BF6FA00044A065 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27F3C2EF25BF6FA00044A065 /* Assets.xcassets */; };
 		27F3C2F325BF6FA00044A065 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27F3C2F225BF6FA00044A065 /* Preview Assets.xcassets */; };
+		27F3C2FC25BF81D10044A065 /* AnimationCompletionObserverModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F3C2FB25BF81D10044A065 /* AnimationCompletionObserverModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		27F3C2EF25BF6FA00044A065 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27F3C2F225BF6FA00044A065 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		27F3C2F425BF6FA00044A065 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27F3C2FB25BF81D10044A065 /* AnimationCompletionObserverModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCompletionObserverModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				27F3C2EB25BF6F9E0044A065 /* LockScreenToggleApp.swift */,
 				27F3C2ED25BF6F9E0044A065 /* ContentView.swift */,
+				27F3C2FB25BF81D10044A065 /* AnimationCompletionObserverModifier.swift */,
 				27F3C2EF25BF6FA00044A065 /* Assets.xcassets */,
 				27F3C2F425BF6FA00044A065 /* Info.plist */,
 				27F3C2F125BF6FA00044A065 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27F3C2EE25BF6F9E0044A065 /* ContentView.swift in Sources */,
+				27F3C2FC25BF81D10044A065 /* AnimationCompletionObserverModifier.swift in Sources */,
 				27F3C2EC25BF6F9E0044A065 /* LockScreenToggleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
